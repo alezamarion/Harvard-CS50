@@ -1,0 +1,9 @@
+
+Mario
+
+Recreating a pyramid:
+
+1 - Ask for height
+2 - If less than 1 or greater than 8, ask again
+3 - Iterate from 1 through height:
+    On iteration i, print i hashes plus a newline
