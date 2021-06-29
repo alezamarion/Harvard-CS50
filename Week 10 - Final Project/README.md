@@ -13,3 +13,7 @@ Mark tasks as to do, doing and done
 Change the status of a task
 Delete tasks
 A page with information about the kanban method
+
+Link to final project:
+https://www.youtube.com/watch?app=desktop&v=fymlXVgwrS4&feature=youtu.be
+
